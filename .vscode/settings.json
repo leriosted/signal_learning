@@ -1,6 +1,10 @@
 {
     "editor.suggestOnTriggerCharacters": false,
-    "editor.quickSuggestions": false,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
     "editor.suggestSelection": "recentlyUsed",
     "editor.suggestWidget.opacity": 0
 }

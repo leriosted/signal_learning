@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Lecture 1: Introduction to Signals and Systems
+DTSTART:20250113T000000
+DTEND:20250113T010000
+DESCRIPTION:Learning Objectives: Understand the basic concepts of signals 
+ and systems\, types of signals\, and system classifications.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 2: Introduction to Signals and Systems
+DTSTART:20250115T000000
+DTEND:20250115T010000
+DESCRIPTION:Learning Objectives: Understand the basic concepts of signals 
+ and systems\, types of signals\, and system classifications.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 3: Introduction to Signals and Systems
+DTSTART:20250117T000000
+DTEND:20250117T010000
+DESCRIPTION:Learning Objectives: Understand the basic concepts of signals 
+ and systems\, types of signals\, and system classifications.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 4: Time-Domain Analysis of Signals
+DTSTART:20250119T000000
+DTEND:20250119T010000
+DESCRIPTION:Learning Objectives: Analyze signals in the time domain\, incl
+ uding impulse and step responses.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 5: Time-Domain Analysis of Signals
+DTSTART:20250121T000000
+DTEND:20250121T010000
+DESCRIPTION:Learning Objectives: Analyze signals in the time domain\, incl
+ uding impulse and step responses.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 6: Time-Domain Analysis of Signals
+DTSTART:20250123T000000
+DTEND:20250123T010000
+DESCRIPTION:Learning Objectives: Analyze signals in the time domain\, incl
+ uding impulse and step responses.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 7: Fourier Series and Fourier Transform
+DTSTART:20250125T000000
+DTEND:20250125T010000
+DESCRIPTION:Learning Objectives: Learn Fourier series and Fourier transfor
+ m for continuous-time signal analysis.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 8: Fourier Series and Fourier Transform
+DTSTART:20250127T000000
+DTEND:20250127T010000
+DESCRIPTION:Learning Objectives: Learn Fourier series and Fourier transfor
+ m for continuous-time signal analysis.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 9: Fourier Series and Fourier Transform
+DTSTART:20250129T000000
+DTEND:20250129T010000
+DESCRIPTION:Learning Objectives: Learn Fourier series and Fourier transfor
+ m for continuous-time signal analysis.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 10: Laplace Transform and Applications
+DTSTART:20250131T000000
+DTEND:20250131T010000
+DESCRIPTION:Learning Objectives: Apply Laplace transform to solve differen
+ tial equations and analyze systems.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 11: Laplace Transform and Applications
+DTSTART:20250202T000000
+DTEND:20250202T010000
+DESCRIPTION:Learning Objectives: Apply Laplace transform to solve differen
+ tial equations and analyze systems.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 12: Laplace Transform and Applications
+DTSTART:20250204T000000
+DTEND:20250204T010000
+DESCRIPTION:Learning Objectives: Apply Laplace transform to solve differen
+ tial equations and analyze systems.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 13: State-Space Representation
+DTSTART:20250206T000000
+DTEND:20250206T010000
+DESCRIPTION:Learning Objectives: Introduce state-space representation and 
+ its applications in mechanical systems.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 14: State-Space Representation
+DTSTART:20250208T000000
+DTEND:20250208T010000
+DESCRIPTION:Learning Objectives: Introduce state-space representation and 
+ its applications in mechanical systems.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 15: State-Space Representation
+DTSTART:20250210T000000
+DTEND:20250210T010000
+DESCRIPTION:Learning Objectives: Introduce state-space representation and 
+ its applications in mechanical systems.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 16: Sampling Theorem and Discrete-Time Signals
+DTSTART:20250212T000000
+DTEND:20250212T010000
+DESCRIPTION:Learning Objectives: Understand the sampling theorem and how t
+ o represent discrete-time signals.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 17: Sampling Theorem and Discrete-Time Signals
+DTSTART:20250214T000000
+DTEND:20250214T010000
+DESCRIPTION:Learning Objectives: Understand the sampling theorem and how t
+ o represent discrete-time signals.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 18: Sampling Theorem and Discrete-Time Signals
+DTSTART:20250216T000000
+DTEND:20250216T010000
+DESCRIPTION:Learning Objectives: Understand the sampling theorem and how t
+ o represent discrete-time signals.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 19: Z-Transform and Discrete-Time Systems
+DTSTART:20250218T000000
+DTEND:20250218T010000
+DESCRIPTION:Learning Objectives: Learn Z-transform for discrete-time syste
+ m analysis and solve difference equations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 20: Z-Transform and Discrete-Time Systems
+DTSTART:20250220T000000
+DTEND:20250220T010000
+DESCRIPTION:Learning Objectives: Learn Z-transform for discrete-time syste
+ m analysis and solve difference equations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 21: Z-Transform and Discrete-Time Systems
+DTSTART:20250222T000000
+DTEND:20250222T010000
+DESCRIPTION:Learning Objectives: Learn Z-transform for discrete-time syste
+ m analysis and solve difference equations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 22: Frequency Response and Bode Plots
+DTSTART:20250224T000000
+DTEND:20250224T010000
+DESCRIPTION:Learning Objectives: Analyze the frequency response of systems
+  and understand Bode plots.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 23: Frequency Response and Bode Plots
+DTSTART:20250226T000000
+DTEND:20250226T010000
+DESCRIPTION:Learning Objectives: Analyze the frequency response of systems
+  and understand Bode plots.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 24: Frequency Response and Bode Plots
+DTSTART:20250228T000000
+DTEND:20250228T010000
+DESCRIPTION:Learning Objectives: Analyze the frequency response of systems
+  and understand Bode plots.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 25: Stability Analysis in Frequency Domain
+DTSTART:20250302T000000
+DTEND:20250302T010000
+DESCRIPTION:Learning Objectives: Study stability in the frequency domain u
+ sing Nyquist and Bode criteria.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 26: Stability Analysis in Frequency Domain
+DTSTART:20250304T000000
+DTEND:20250304T010000
+DESCRIPTION:Learning Objectives: Study stability in the frequency domain u
+ sing Nyquist and Bode criteria.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 27: Stability Analysis in Frequency Domain
+DTSTART:20250306T000000
+DTEND:20250306T010000
+DESCRIPTION:Learning Objectives: Study stability in the frequency domain u
+ sing Nyquist and Bode criteria.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 28: Mechanical Systems Modeling in Frequency Domain
+DTSTART:20250308T000000
+DTEND:20250308T010000
+DESCRIPTION:Learning Objectives: Model mechanical systems in the frequency
+  domain and understand resonance.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 29: Mechanical Systems Modeling in Frequency Domain
+DTSTART:20250310T000000
+DTEND:20250310T010000
+DESCRIPTION:Learning Objectives: Model mechanical systems in the frequency
+  domain and understand resonance.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 30: Mechanical Systems Modeling in Frequency Domain
+DTSTART:20250312T000000
+DTEND:20250312T010000
+DESCRIPTION:Learning Objectives: Model mechanical systems in the frequency
+  domain and understand resonance.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 31: Advanced Topics: Nonlinear Systems & Signal Modulation
+DTSTART:20250314T000000
+DTEND:20250314T010000
+DESCRIPTION:Learning Objectives: Explore advanced topics\, including nonli
+ near systems and signal modulation techniques.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 32: Advanced Topics: Nonlinear Systems & Signal Modulation
+DTSTART:20250316T000000
+DTEND:20250316T010000
+DESCRIPTION:Learning Objectives: Explore advanced topics\, including nonli
+ near systems and signal modulation techniques.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 33: Advanced Topics: Nonlinear Systems & Signal Modulation
+DTSTART:20250318T000000
+DTEND:20250318T010000
+DESCRIPTION:Learning Objectives: Explore advanced topics\, including nonli
+ near systems and signal modulation techniques.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 34: Review and Case Studies
+DTSTART:20250320T000000
+DTEND:20250320T010000
+DESCRIPTION:Learning Objectives: Consolidate learning through review sessi
+ ons and case studies.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 35: Review and Case Studies
+DTSTART:20250322T000000
+DTEND:20250322T010000
+DESCRIPTION:Learning Objectives: Consolidate learning through review sessi
+ ons and case studies.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture 36: Review and Case Studies
+DTSTART:20250324T000000
+DTEND:20250324T010000
+DESCRIPTION:Learning Objectives: Consolidate learning through review sessi
+ ons and case studies.
+END:VEVENT
+END:VCALENDAR
